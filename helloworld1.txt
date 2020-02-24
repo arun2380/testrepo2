@@ -10,6 +10,7 @@
   </script>
 
   <p>...After the script.</p>
+  <p>...Newline after the script.</p>
 
 </body>
 
